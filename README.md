@@ -1,1 +1,1 @@
-# sol_inbox
+# Solidity Inbox
