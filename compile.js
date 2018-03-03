@@ -6,5 +6,4 @@ const path = require('path'),
 
 const Inbox = solc.compile(source,1).contracts[':Inbox'];
 
-console.log(Inbox)
 module.exports = Inbox;

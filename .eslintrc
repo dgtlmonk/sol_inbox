@@ -1,0 +1,19 @@
+{
+  "parser": "babel-eslint",
+  "globals": {
+    "window": true,
+    "document": true
+  },
+  "rules": {
+    "import/extensions": "off",
+    "import/no-unresolved": "off",
+    "new-cap": ["error", { "newIsCap": false }],
+    "quotes": ["error", "single"],
+    "newline-after-var": ["error", "always"],
+    "curly": ["error", "multi-or-nest"],
+    "one-var": 0,
+    "no-underscore-dangle": 0,
+    "no-param-reassign": "off",
+    "no-throw-literal": "off"
+  }
+}

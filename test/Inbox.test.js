@@ -16,7 +16,7 @@ const assert = require('assert'),
 
   describe('Inbox', () => {
     it ('deploys contract', () => {
-      console.log(inbox)
+      // console.log(inbox)
     })
 
     it('has default message', async () => {
